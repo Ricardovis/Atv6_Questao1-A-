@@ -1,0 +1,17 @@
+programa {
+	funcao inicio() {
+	    
+	    /*1. Faça um programa que imprima na tela os números de 1 a 20, um abaixo do outro.”
+	          b. Use a estrutura de repetição “para”;*/
+		
+		inteiro i = 0 
+		
+		enquanto(i <= 20) {
+		escreva(i, "\n")
+		i++
+	
+		    
+		}
+	    
+	}
+}
